@@ -60,7 +60,7 @@ We built Appliance HAT to work with any device featuring an I2C bus. It can be u
 
 Exceeding these limits may overload the relays.
 
-See [relay datasheet](https://github.com/plasmadancom/Appliance-HAT/docs/RZF1-1A6-L005-datasheet.pdf) for full details.
+See [relay datasheet](https://github.com/plasmadancom/Appliance-HAT/raw/main/docs/RZF1-1A6-L005-datasheet.pdf) for full details.
 
 ## DC Switching
 
