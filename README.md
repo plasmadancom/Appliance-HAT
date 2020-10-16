@@ -54,7 +54,7 @@ Easy integration with [Home Assistant](https://www.home-assistant.io/integration
 
 We built Appliance HAT to work with any device featuring an I2C bus. It can be used with either 3.3V devices (eg, Raspberry Pi) or 5V devices (eg, Arduino); by selecting the appropriate jumper (see [device compatibility](#device-compatibility)).
 
-### Maximum Ratings
+## Maximum Ratings
 
 * 16A @ 250V AC (ambient temperature)
 
@@ -62,7 +62,13 @@ Exceeding these limits may overload the relays.
 
 See [relay datasheet](https://github.com/plasmadancom/Appliance-HAT/docs/RZF1-1A6-L005-datasheet.pdf) for full details.
 
-### Electrical Safety
+## DC Switching
+
+DC is much more difficult to switch compared to AC. Appliance HAT is not rated to switch DC since it uses AC relays, however provided you stick to **low** voltages and keep the current reasonable, you should be fine. However this is entirely at your own risk and will likely reduce the operational life of the relays. We recommend a **maximum** 10A @ 30V DC.
+
+Alternatively try our [CTRL HAT](https://github.com/plasmadancom/CTRL-HAT) boards which work with DC power-MOSFETs.
+
+## Electrical Safety
 
 Mains voltage electricity is extremely dangerous. There is significant risk of death through electrocution, fire or explosion if not wired and fused correctly.
 
