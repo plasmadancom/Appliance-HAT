@@ -117,7 +117,8 @@ Appliance HAT is fully compatible with all **40-way** Raspberry Pi models and cl
 
 To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. Use the SDA &amp; SDL breakout pins for I2C communication.
 
-## Mechanical
+## Dimensions
+
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/plasmadancom/Appliance-HAT/master/img/appliance-hat-v1.0-dimensions.svg">
