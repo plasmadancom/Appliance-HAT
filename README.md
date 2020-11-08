@@ -1,6 +1,6 @@
 # Appliance HAT
 
-* [Web GUI Live Demo](https://io.plasmadan.com/appliancehat)
+* [Web GUI Live Demo](https://io.plasmadan.com/appliancehat/)
 * [Easy Installer](#easy-installer)
 * [Arduino Wiring](#arduino-wiring)
 * [Setup Guide](https://github.com/plasmadancom/HAT-GUI/#setup-guide)
@@ -21,15 +21,16 @@ Unlike similar products, Appliance HAT does not require any screw terminals or P
 * Conforms to Raspberry Pi [HAT Specifications](https://github.com/raspberrypi/hats)
 
 ## Interactive Web GUI
+
 <p align="center">
-    <a href="https://io.plasmadan.com/ctrlhat" target="_blank" rel="nofollow">
-        <img alt="Appliance HAT Web GUI" src="https://github.com/plasmadancom/HAT-GUI/raw/master/img/hat-gui.gif">
+    <a href="https://io.plasmadan.com/appliancehat/" target="_blank" rel="nofollow">
+        <img alt="Appliance HAT Web GUI" src="/img/appliance-hat-mockup.gif" width="600">
     </a>
 </p>
 
 Once installed on your Raspberry Pi, this interactive GUI allows quick &amp; easy control of your Appliance HAT without the need for any coding. It is designed to be both a user guide &amp; quick reference to the Appliance HAT pinout. The GUI is fully responsive and adapts to any screen size.
 
-Check-out the [Live Demo.](https://io.plasmadan.com/appliancehat)
+Check-out the [Live Demo.](https://io.plasmadan.com/appliancehat/)
 
 ## Easy Installer
 
