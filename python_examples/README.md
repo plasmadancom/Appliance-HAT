@@ -13,6 +13,6 @@ sudo pip install wiringpi
 An infinite Knight Rider style chaser sequence which works with WiringPi.
 
 ```
-sudo wget https://github.com/plasmadancom/Appliance-HAT/raw/master/python_examples/relay_chaser.py
+sudo wget https://github.com/plasmadancom/Appliance-HAT/raw/main/python_examples/relay_chaser.py
 sudo python relay_chaser.py
 ```
