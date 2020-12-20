@@ -3,6 +3,7 @@
 * [Web GUI Live Demo](https://io.plasmadan.com/appliancehat/)
 * [Easy Installer](#easy-installer)
 * [Arduino Wiring](#arduino-wiring)
+* [Schematic](https://github.com/plasmadancom/Appliance-HAT/blob/main/docs/appliance-hat-v1.1-schematic.pdf)
 * [Setup Guide](https://github.com/plasmadancom/HAT-GUI/#setup-guide)
 
 A Raspberry Pi HAT I/O automation board with 6 opto-isolated quick connect power relays. Designed for switching high power loads such as industrial equipment or appliances. Ideally suited to automation or industrial control applications.
@@ -122,7 +123,7 @@ To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. U
 
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/Appliance-HAT/master/img/appliance-hat-v1.0-dimensions.svg">
+    <a href="https://raw.githubusercontent.com/plasmadancom/Appliance-HAT/main/img/appliance-hat-v1.0-dimensions.svg">
         <img alt="Mechanical Drawing" src="/img/appliance-hat-v1.0-dimensions.svg" width="500">
     </a>
 </p>
@@ -136,7 +137,7 @@ To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. U
 
 ## Where to Go From Here
 
-Integrating Appliance HAT with your own projects is easy, just follow any guide which uses the MCP23017 expander. We have provided some example Python scripts to get you started (see [here](https://github.com/plasmadancom/Appliance-HAT/tree/master/python_examples)).
+Integrating Appliance HAT with your own projects is easy, just follow any guide which uses the MCP23017 expander. We have provided some example Python scripts to get you started (see [here](https://github.com/plasmadancom/Appliance-HAT/tree/main/python_examples)).
 
 Integration with [Home Assistant](https://www.home-assistant.io/integrations/mcp23017/) is easy thanks to the MCP23017.
 
